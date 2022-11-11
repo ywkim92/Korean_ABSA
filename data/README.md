@@ -1,0 +1,6 @@
+- 자료 3건은 현 위치에 업로드  
+- 보안상 업로드 불가  
+- 목록
+  - nikluge-sa-2022-train.jsonl  
+  - nikluge-sa-2022-dev.jsonl  
+  - nikluge-sa-2022-test.jsonl  
