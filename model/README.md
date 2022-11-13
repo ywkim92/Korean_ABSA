@@ -1,0 +1,4 @@
+- 목록
+  - 용량이 커서 push하지 못하고 다운로드 링크로 대체
+  - ACD model: acd_best.bin / [link](https://drive.google.com/file/d/1V0zZglbwXRKqflLZP5ndkDXcPsh0ZA-S/view?usp=sharing)  
+  - ASC model: asd_best.bin / [link](https://drive.google.com/file/d/1hDm3hJxstL21POYWO4Vz9YK5nI6qt9R3/view?usp=sharing)  
