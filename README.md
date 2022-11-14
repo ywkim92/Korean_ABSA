@@ -3,3 +3,4 @@
 - 팀원(가나다순): 김영민, 김영운, 손선일  
 - [과제 개요](https://corpus.korean.go.kr/task/taskList.do?taskId=8&clCd=END_TASK&subMenuId=sub01)  
 - [baseline](https://github.com/teddysum/korean_ABSA_baseline)  
+- [Model description](https://docs.google.com/document/d/1yEDOhGsgGe0k7LA00OH0tjCugxaDOPtKQtk5GpiIEJM/edit?usp=sharing)  
